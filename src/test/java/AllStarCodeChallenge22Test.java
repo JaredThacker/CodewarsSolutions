@@ -3,7 +3,6 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.experimental.runners.Enclosed;
 import org.junit.runner.RunWith;
-import org.junit.runners.JUnit4;
 
 @RunWith(Enclosed.class)
 public class AllStarCodeChallenge22Test {
